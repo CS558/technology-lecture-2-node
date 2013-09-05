@@ -1,6 +1,6 @@
 CS558 Technology Lecture 2: Node.js
 ===================================
-Last time we covered the basics of JavaScript.  Today, we will discuss how to write programs in JavaScript that interact with the operating system and other software components.
+[Last time we covered the basics of JavaScript.](https://github.com/CS558/technology-lecture-1-javascript#cs558-technology-lecture-1-javascript)  Today, we will discuss how to write programs in JavaScript that interact with the operating system and other software components.
 
 It is important to note that JavaScript, just like C or C++, is only a language.  It does not come with any built in notion of how to do things read a file, open a network socket or modify a web page.  Instead, these things must be defined by the run time environment.  There are two common environments where JavaScript is usually executed:
 
